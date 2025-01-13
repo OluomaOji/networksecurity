@@ -1,0 +1,7 @@
+2025-01-13 01:01:31,200-NetworkSecurity.exception.exception-ERROR-Error occured during the Data Ingestion Process
+2025-01-13 01:03:30,221-NetworkSecurity.exception.exception-ERROR-Error occured during the Data Ingestion Process
+2025-01-13 01:11:55,192-NetworkSecurity.exception.exception-ERROR-Error occured during the Data Loading Process
+2025-01-13 11:07:27,018-NetworkSecurity.exception.exception-ERROR-Error occured during the Data Loading Process
+2025-01-13 13:57:58,977-NetworkSecurity.exception.exception-ERROR-Error occured during the Data Loading Process
+2025-01-13 14:09:42,618-NetworkSecurity.exception.exception-ERROR-Invalid URI scheme: URI must begin with 'mongodb://' or 'mongodb+srv://'
+2025-01-13 14:09:42,649-NetworkSecurity.exception.exception-ERROR-<module 'sys' (built-in)>
